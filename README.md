@@ -1,7 +1,7 @@
 # WarmUp №6. Long arithmetic (product)
 ---
 ### Task:
-![The task](https://i.imgur.com/D1uVXYQ.png)
+![The task](https://i.imgur.com/NuAldiZ.png)
 
 >The program calculates the product of the numbers.
 
